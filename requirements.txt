@@ -4,3 +4,4 @@ spacy
 spacytextblob
 matplotlib
 html5lib
+vaderSentiment
