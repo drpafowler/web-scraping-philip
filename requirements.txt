@@ -5,3 +5,6 @@ spacytextblob
 matplotlib
 html5lib
 vaderSentiment
+numpy 
+pandas
+scipy
